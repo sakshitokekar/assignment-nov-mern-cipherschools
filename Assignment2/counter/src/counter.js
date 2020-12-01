@@ -7,7 +7,7 @@ function Counter(props){
 return(
     <div className="main">
         <div className="counter">
-            <div id="color" onClick={() => {props.Increase(props.counter)}}>
+            <div id="color">
                 {props.counter}
             </div>
                
