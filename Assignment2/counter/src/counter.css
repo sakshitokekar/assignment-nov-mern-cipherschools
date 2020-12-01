@@ -1,0 +1,25 @@
+#color {
+    border: 5px solid black;
+    width: 300px;
+    height: 270px; 
+    text-align: center; 
+    padding-top: 130px;  
+    font-size: 5em;  
+    text-decoration: none;
+    text-emphasis: none;
+    user-select: none;
+}
+
+.main
+{
+    margin-left: 40%;
+    padding: 10px;
+}
+
+button{
+    color: white;
+    background-color: rgb(97, 1, 100);
+    margin-right: 0px;
+    width: 103px;
+    font-size: 3em;
+}
